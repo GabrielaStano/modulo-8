@@ -1,3 +1,9 @@
+
+**EXERCÍCIOS MÓDULO 8** <br />
+<img src="https://github.com/GabrielaStano/modulo-8/blob/main/cat.gif" alt="Fluxograma"> <br />
+
+
+
 **EXERCÍCIO 1**  <br />
 
 Dado o Fluxograma abaixo, desenvolva o algoritmo abaixo na Linguagem Java:  <br />
